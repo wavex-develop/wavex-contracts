@@ -1,0 +1,7 @@
+/node_modules/
+/contracts/build/
+/token/build/
+/faucet/build/
+/staking/build/
+.DS_Store
+*/.DS_Store
